@@ -26,6 +26,7 @@ public class Array1 {
 				System.out.print(arr[r][c]+" ");
 			}
 			System.out.println();
+			System.out.println("Thank you");
 		}
 
 	}
